@@ -36,3 +36,4 @@ Adjusting the Learning Rate ⚙️:
 I could experiment with different learning rates or use learning rate schedules to ensure that the model converges better and isn't too sensitive to overfitting.
 Conclusion 📈:
 The results show that the model performs well on the normal test set, but struggles significantly on manipulated and white-balanced sets. Incorporating more diverse data, applying robust augmentation, and tuning the model further should improve its performance across varying conditions, helping the model become more adaptable to real-world variations.
+https://www.kaggle.com/code/senaabasz/notebook586ea44bcd/edit
